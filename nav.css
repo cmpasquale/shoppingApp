@@ -8,9 +8,8 @@ li a {
 width:100px;
 background-color: grey;
 display: block;
-padding: 16px;
+padding: 16px
 }
-
 li a:hover{
 
 background-color:green;
