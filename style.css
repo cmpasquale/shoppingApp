@@ -1,0 +1,17 @@
+#image1{
+        border-width: 10px;
+        border-color: black;
+        border-style: solid;
+
+}
+
+#image2{
+    border-width: 10px;
+    border-color: black;
+    border-style: solid;
+
+}
+#container{
+    margin-left: 40%;
+
+}
